@@ -1,0 +1,5 @@
+vt = float(input('\nInforme o valor total vendido em reais:'))
+print(f'O valor total com desconto de 10% é de {0.9*vt} reais.')
+print(f'O valor de cada parcela, se parcelado em 3 vezes sem juros, é de {vt/3} reais.')
+print(f'Se a venda for à vista, o vendedor possui uma comissão de {0.05*0.9*vt}')
+print(f'Se for parcelada em 3 vezes, o vendedor possui uma comissão de {0.05*vt}')

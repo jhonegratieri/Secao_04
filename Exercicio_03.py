@@ -1,0 +1,5 @@
+print('Informe três números inteiros:')
+a = int(input('Informe o primeiro número:'))
+b = int(input('Informe o segundo número:'))
+c = int(input("Informe o terceiro número:"))
+print(f'A soma deles é {a + b + c}')
