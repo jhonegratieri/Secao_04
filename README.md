@@ -1,2 +1,2 @@
 # Secao_04
-Exercises solved for repetition structures in Python.
+Worked out exercises about Python variables and data types.
